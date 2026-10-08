@@ -68,6 +68,13 @@
 
 本工具是服药管理辅助设备，不构成诊疗建议；服药数据属个人健康信息，未经授权不得使用或公开。
 
+## 🗂 方案总览
+
+<!-- SOLUTIONS_INDEX_START -->
+> 暂无提交方案。第一个方案从这里开始 → 阅读 [solutions/ 提交指南](solutions/README.md)
+<!-- SOLUTIONS_INDEX_END -->
+
+
 ## 许可证
 
 待定（License TBD）
