@@ -1,9 +1,9 @@
-\---
+---
 team: 顶呱呱小队
 solution: 伴药
 status: 设计中
 summary: 将强震动唤醒、上次服药时间常显和安全间隔物理锁定整合进同一个智能药盒，解决漏服提醒与重复服药风险。
-\---
+---
 
 # 伴药｜醒伴 CareBox
 
@@ -143,7 +143,7 @@ pnpm build
 
 本 PR 仅含 Markdown 设计文档，无代码可构建。
 
-frontmatter 已按 `solutions/README.md` 所需字段编写，包含 `team`、`solution`、`status`、`summary` 四项元信息。已在目标 Git 仓库的 `solution-顶呱呱小队` 分支执行 `scripts/update_solutions_index.py`，frontmatter 字段解析通过；提交后由仓库 GitHub Actions 继续完成索引更新。
+frontmatter 已按 `solutions/README.md` 所需字段编写，包含 `team`、`solution`、`status`、`summary` 四项元信息。由于当前工作区未包含赛题仓库及官方校验脚本，尚未在本地实际执行 `scripts/update_solutions_index.py`；提交到赛题仓库后应运行该脚本完成最终校验。
 
 ## 来源与协作 / Source & Support
 
