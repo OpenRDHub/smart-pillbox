@@ -71,7 +71,9 @@
 ## 🗂 方案总览
 
 <!-- SOLUTIONS_INDEX_START -->
-> 暂无提交方案。第一个方案从这里开始 → 阅读 [solutions/ 提交指南](solutions/README.md)
+| 团队 | 方案 | 状态 | 简介 | 目录 |
+|---|---|---|---|---|
+| 顶呱呱小队 | 伴药 | — |  | [solutions/顶呱呱小队-伴药](solutions/顶呱呱小队-伴药) |
 <!-- SOLUTIONS_INDEX_END -->
 
 
